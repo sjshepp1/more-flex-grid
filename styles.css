@@ -135,6 +135,12 @@ nav{
 nav ul{
     list-style-type: none;
     padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background: ("images/favicon.ico") no-repeat bottom;
+   
+    
     /* Styles were added here to arrange the content, I used flexbox */
     /* TO DO */
 }
